@@ -29,9 +29,13 @@ body{
     margin-top: 3rem;
     background-color: rgb(221, 160, 36);
     color: aliceblue;
-    font-size: 1rem;
+    font-size: 16px;
     border-radius: 10px;
     border: none;
-    padding: .3rem;
+    padding: 3px;
     margin-bottom: 1rem;
+    cursor: pointer;
+}
+#btn :hover{
+    background-color: rgb(188, 124, 22);
 }
