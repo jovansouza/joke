@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+   background-color: rgb(216, 152, 41);
+}
+
+#div{
+    background-color: rgba(0, 0, 0, 0.689);
+    height: 50%;
+    width: 30%;
+    color: aliceblue;
+    margin-left:35%;
+    margin-top: 300px;
+    border-radius: 10px;
+    
+}
+#h1{
+    color: rgb(188, 157, 20);
+    margin-left: 50px;
+    margin-bottom: 1rem;
+}
+
+#btn {
+    margin-left: 7em;
+    margin-top: 3rem;
+    background-color: rgb(221, 160, 36);
+    color: aliceblue;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: none;
+    padding: .3rem;
+    margin-bottom: 1rem;
+}
